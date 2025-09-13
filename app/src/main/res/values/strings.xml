@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AppBanco</string>
+    <string name="title_loading">Cargando transacciones...</string>
+    <string name="title_error_loading">Error al cargar los datos</string>
+    <string name="recent_transactions">Transacciones Resientes</string>
+    <string name="balance">Saldo Total</string>
+    <string name="total_income">Ingresos</string>
+    <string name="total_expenses">Egresos</string>
+    <string name="financial_summary">Resumen Financiero</string>
+    <string name="error_loading">No pudimos cargar la información en este momento. Verifica tu conexión a internet o inténtalo más tarde.</string>
+    <string name="retry">Reintentar</string>
 </resources>
